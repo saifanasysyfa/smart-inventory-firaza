@@ -1,0 +1,11 @@
+﻿sku,material_name,category,unit,current_stock,minimum_stock,lead_time_days,supplier
+PKG004,Bubble Wrap,Packaging,roll,7.0,10.0,3,CV Aman Pack
+MAT001,Handuk Polos,Bahan Baku,pcs,65.0,40.0,10,Supplier Tekstil A
+PKG002,Kardus Hampers Large,Packaging,pcs,18.0,25.0,7,CV Mitra Kemasan
+PKG001,Kardus Hampers Small,Packaging,pcs,42.0,30.0,5,CV Mitra Kemasan
+MAT003,Kartu Ucapan,Pelengkap,pcs,90.0,50.0,4,Percetakan Kita
+PKG005,Kertas Tissue,Packaging,pack,35.0,15.0,3,CV Aman Pack
+PKG003,Pita Satin Gold,Packaging,roll,12.0,8.0,4,Toko Pita Jaya
+MAT004,Plastik OPP,Packaging,pack,9.0,12.0,5,CV Aman Pack
+MAT002,Sajadah Polos,Bahan Baku,pcs,24.0,30.0,12,Supplier Tekstil B
+MAT005,Stiker Logo Firaza,Pelengkap,sheet,22.0,10.0,6,Percetakan Kita

@@ -1,0 +1,61 @@
+{
+  "accuracy": 0.955,
+  "macro_f1": 0.9185711413731056,
+  "test_samples": 600,
+  "report": {
+    "Safe": {
+      "precision": 0.9794344473007712,
+      "recall": 0.9794344473007712,
+      "f1-score": 0.9794344473007712,
+      "support": 389.0
+    },
+    "Need Attention": {
+      "precision": 0.8676470588235294,
+      "recall": 0.7763157894736842,
+      "f1-score": 0.8194444444444444,
+      "support": 76.0
+    },
+    "Restock Priority": {
+      "precision": 0.9300699300699301,
+      "recall": 0.9851851851851852,
+      "f1-score": 0.9568345323741008,
+      "support": 135.0
+    },
+    "accuracy": 0.955,
+    "macro avg": {
+      "precision": 0.9257171453980769,
+      "recall": 0.9136451406532137,
+      "f1-score": 0.9185711413731056,
+      "support": 600.0
+    },
+    "weighted avg": {
+      "precision": 0.9541676950500481,
+      "recall": 0.955,
+      "f1-score": 0.954084066080469,
+      "support": 600.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      381,
+      7,
+      1
+    ],
+    [
+      8,
+      59,
+      9
+    ],
+    [
+      0,
+      2,
+      133
+    ]
+  ],
+  "labels": [
+    "Safe",
+    "Need Attention",
+    "Restock Priority"
+  ],
+  "model_path": "/mnt/data/smart-inventory-firaza/models/stock_classifier.joblib"
+}
